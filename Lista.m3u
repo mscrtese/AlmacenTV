@@ -1,0 +1,6 @@
+#EXTM3U list-name="Canales IPTV" list-image="https://images.emojiterra.com/google/android-10/512px/1f4fa.png"
+
+#1-TV Abierta
+
+#EXTINF:-1 tvg-id="AR | Todo Noticias" tvg-name="AR | Todo Noticias" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="1-Tv Abierta", TN
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
