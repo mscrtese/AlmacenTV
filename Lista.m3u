@@ -4,3 +4,67 @@
 
 #EXTINF:-1 tvg-id="AR | Todo Noticias" tvg-name="AR | Todo Noticias" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="1-Tv Abierta", TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.telered.com.ar/img/logos_ch/logos-ELTRECEHD-2705.png" group-title="1-Tv Abierta", Canal 13
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://i.imgur.com/87WCHtd.png" group-title="1-Tv Abierta",Canal 10 Córdoba (1080p)
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w1076024016_b881072.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/3d/f2/fc/3df2fcdd7f2ce364dc10596f1e759984.jpg" group-title="1-Tv Abierta", Telediario Rio Cuarto
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CukFSNPX2pnPk1VPlIILgm6DS7yHKIzvswph06KB3EwI5R2bVAtTPl8trnLqn0Ptt6KX_7tgUneHOVa-1RQbqakY9cxpIXw0oQdQhPi0n0x1z6FWNouMk7RUhhoXAZOndOwDew3eiLFnSjWI00oOJefKRgq8qhYGnkkf0NKPrE_gnObKBFXmt0oe_6pbCqLmzuUKreeYY_Fzv9nYhyxTFXqQ4_XehkTdvisQESLk5xMTRbp2lijsg2NGVRNRiq-5TY1_-VGAOQE_91zHqvmK9c6PLyw1w62Ma-0tasXSpqdXsKKKBv2gOeIjT1i8rEHZwSoAEtflLuv0arMu2nWy11UxcQBEkqEe361-0T6rawyUVY-UNbULLRC91ZTMGxzyye_do-hsvNwOV6oYGxs1Ov27q356hnGYEKa5qCXm9mlTICnEvDD9J8MZ6cN_Hj_6Vn2FBJqEvr2iGJw3S2TNeSVxyFJ8OrrN9yFSoA59lzlQOCtXTg5pECLzEqtkG3zJMfPxgxoKOFgnBtn1MgtWHtuhLgcpdsfdSCe1YBDPJgCgHTfUkz8_vCJI_ujKtXGjxpvy3rZNJWPH-BopUQxy9Pcm6vATxnQlFPduHZB5wLLxnoJMANZuSed5BFfX-ShxP_Lihme9W2BPsi0wSDDJlQdiviuLlw9ZjiYwvRjQNV6ZI1B5ZdSS4CHS31GZZvVsPMPzaESArNYQ30a9tllPfrfdybSstY2HyZzJFhyKJDKRH7L2VNyfmVAD3NE9JxrL9NZsB3YHYjgBhm2tgPlnlkbssEay18U65UJpjQxr0MgvL2_NKNA3Vnc3Fi7zvc2vsmLkTCGwZ2IBsuGV-4lVggYLgYrAQOTBZBRmHgfG1ayphzLJYVXE-RBnhv8DgkMEH6C83ZhppyTbifacnQgmmGg9Desht-hj1kRuemCF0_xoPjmoemlzqo-fuiwWvEosKM4vCLAS-tjMnBqnxMQzrvDz-byEMyN1sUL7shoMnwrlaOU8hEtNG8oXIAEqCXVzLWVhc3QtMTDhBw.m3u8
+
+#EXTINF:-1 tvg-id="229" tvg-logo="https://i2.paste.pics/3595f1cf2a6659946f9ff0c1d61ef6cc.png" group-title="1-Tv Abierta",Canal 20 Villa Maria
+https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="AR | Uniteve Villa María" tvg-name="AR | Uniteve Villa María" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRUKIPd-0iXgVZesvixX2LU9OZ29R6J2_89fnaDpQ=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA", 755 | Uniteve Villa María || ARGENTINA
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+
+
+#2-Deporte
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" group-title="2-Deporte", TyC Sports1
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+
+
+
+#3-Variedad
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/800px-Telemax.png" group-title="3-Variedad", TELEMAX
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="3-Variedad",Argentinísima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:-1 tvg-id="AR | Rural TV" tvg-name="AR | Rural TV" tvg-logo="https://www.elrural.com/wp-content/themes/el-rural2016/images/canal-rural.png" group-title="3-Variedad", 313 | Canal Rural
+https://cda2.alsolnet.com/elrural/live/chunklist_w1152779177.m3u8
+
+#EXTINF:-1 tvg-id="1359" tvg-name="Encuentro" tvg-logo="https://i.paste.pics/6ea1efdaba3065291386bc1637fc488a.png" group-title="3-Variedad", Encuentro
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="AR | El Garage TV" tvg-name="AR | El Garage TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS-T1STlbnBP1FvFZIpa4XY9LsYWzX0KuHw72YVeg=s88-c-k-c0x00ffffff-no-rj" group-title="3-Variedad", El Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-id="AR | Canal NET" tvg-name="AR | Canal NET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/120px-Net_TV_logo.png" group-title="3-Variedad", Canal NET
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FR | Fashion TV" tvg-name="FR | Fashion TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/150px-Fashion_TV_logo.svg.png" group-title="3-Variedad", Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+
+
+#Cine
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://pbs.twimg.com/profile_images/907114710088241152/kEDLAPN4_400x400.jpg" group-title="4-Cine", CINCO TV TIGRE
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/wow-tv-en-vivo-canal-24-2312.png" group-title="4-Cine", WOW
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1269929189_b1000000_slen.m3u8
+
+
+#5-Radios
+#EXTINF:-1 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="5-Radios", Radio Latina
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
+
+
