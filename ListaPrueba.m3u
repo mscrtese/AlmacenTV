@@ -1,5 +1,15 @@
 #EXTM3U list-name="Canales Prueba" list-image="https://st.depositphotos.com/1029110/1319/v/450/depositphotos_13190166-stock-illustration-retro-tv.jpg"
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" group-title="Prueba", Nat Geo (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/NatGeo_t2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Prueba", Golden (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/Golden_t4/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Prueba", ESPNEx
+http://bantel.iptvperu.tv:1935/transcoderip/espnextrabk_t2.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Prueba", Canal 10
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/.m3u8
@@ -18,8 +28,3 @@ http://bantel.iptvperu.tv:1935/transcoderip/americatv_t1/playlist.m3u8
 http://bantel.iptvperu.tv:1935/transcoder_t4/aye_t4/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="n/a" group-title="Pelicula",Crater (2023)
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Cr%C3%A1ter%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-
-#EXTINF:-1 tvg-logo="n/a" group-title="Pelicula",Air (2023)
-http://208.88.245.85/nuevo/air.2023.dual.mkv
