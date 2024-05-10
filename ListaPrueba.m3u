@@ -1,0 +1,18 @@
+#EXTM3U list-name="Canales Prueba" list-image="https://st.depositphotos.com/1029110/1319/v/450/depositphotos_13190166-stock-illustration-retro-tv.jpg"
+
+
+#EXTINF:-1 tvg-logo="" group-title="", Canal 10
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Bayres
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Ciudad Magica
+https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
+
+
+#EXTINF:-1 tvg-id="America TV" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Generalistas" tvg-name="America TV",America TV
+http://bantel.iptvperu.tv:1935/transcoderip/americatv_t1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="n/a" group-title="OPEN TV",A&E
+http://bantel.iptvperu.tv:1935/transcoder_t4/aye_t4/chunks.m3u8
