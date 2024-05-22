@@ -11,14 +11,12 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://i.imgur.com/87WCHtd.png" group-title="1-Tv Abierta",Canal 10 Córdoba (1080p)
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w1076024016_b881072.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/3d/f2/fc/3df2fcdd7f2ce364dc10596f1e759984.jpg" group-title="1-Tv Abierta", Telediario Rio Cuarto
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CukFSNPX2pnPk1VPlIILgm6DS7yHKIzvswph06KB3EwI5R2bVAtTPl8trnLqn0Ptt6KX_7tgUneHOVa-1RQbqakY9cxpIXw0oQdQhPi0n0x1z6FWNouMk7RUhhoXAZOndOwDew3eiLFnSjWI00oOJefKRgq8qhYGnkkf0NKPrE_gnObKBFXmt0oe_6pbCqLmzuUKreeYY_Fzv9nYhyxTFXqQ4_XehkTdvisQESLk5xMTRbp2lijsg2NGVRNRiq-5TY1_-VGAOQE_91zHqvmK9c6PLyw1w62Ma-0tasXSpqdXsKKKBv2gOeIjT1i8rEHZwSoAEtflLuv0arMu2nWy11UxcQBEkqEe361-0T6rawyUVY-UNbULLRC91ZTMGxzyye_do-hsvNwOV6oYGxs1Ov27q356hnGYEKa5qCXm9mlTICnEvDD9J8MZ6cN_Hj_6Vn2FBJqEvr2iGJw3S2TNeSVxyFJ8OrrN9yFSoA59lzlQOCtXTg5pECLzEqtkG3zJMfPxgxoKOFgnBtn1MgtWHtuhLgcpdsfdSCe1YBDPJgCgHTfUkz8_vCJI_ujKtXGjxpvy3rZNJWPH-BopUQxy9Pcm6vATxnQlFPduHZB5wLLxnoJMANZuSed5BFfX-ShxP_Lihme9W2BPsi0wSDDJlQdiviuLlw9ZjiYwvRjQNV6ZI1B5ZdSS4CHS31GZZvVsPMPzaESArNYQ30a9tllPfrfdybSstY2HyZzJFhyKJDKRH7L2VNyfmVAD3NE9JxrL9NZsB3YHYjgBhm2tgPlnlkbssEay18U65UJpjQxr0MgvL2_NKNA3Vnc3Fi7zvc2vsmLkTCGwZ2IBsuGV-4lVggYLgYrAQOTBZBRmHgfG1ayphzLJYVXE-RBnhv8DgkMEH6C83ZhppyTbifacnQgmmGg9Desht-hj1kRuemCF0_xoPjmoemlzqo-fuiwWvEosKM4vCLAS-tjMnBqnxMQzrvDz-byEMyN1sUL7shoMnwrlaOU8hEtNG8oXIAEqCXVzLWVhc3QtMTDhBw.m3u8
 
 #EXTINF:-1 tvg-id="229" tvg-logo="https://i2.paste.pics/3595f1cf2a6659946f9ff0c1d61ef6cc.png" group-title="1-Tv Abierta",Canal 20 Villa Maria
 https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-id="AR | Uniteve Villa María" tvg-name="AR | Uniteve Villa María" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRUKIPd-0iXgVZesvixX2LU9OZ29R6J2_89fnaDpQ=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA", 755 | Uniteve Villa María || ARGENTINA
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRUKIPd-0iXgVZesvixX2LU9OZ29R6J2_89fnaDpQ=s900-c-k-c0x00ffffff-no-rj" group-title="1-Tv Abierta",Uniteve Villa María
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
 
@@ -27,7 +25,8 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="2-Deporte", 221 | ESPN
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN_t2.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder2/ESPN/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="2-Deporte", 222 | ESPN 2
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN2_t2.stream/playlist.m3u8
@@ -53,6 +52,11 @@ http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN7_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/800px-Telemax.png" group-title="3-Variedad", TELEMAX
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" group-title="3-Variedad", Nat Geo (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/NatGeo_t2.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="USA | History" tvg-name="USA | History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="3-Variedad", 321 | History
 http://bantel.iptvperu.tv:1935/transcoder_t4/History_t4/playlist.m3u8
@@ -130,6 +134,9 @@ http://bantel.iptvperu.tv:1935/transcoderip/cinefamiliar_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | FMH Movies" tvg-name="USA | FMH Movies" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies.jpg" group-title="4-Cine", 126 | FMH Movies
 http://bantel.iptvperu.tv:1935/astralocal/FMH_Movies/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="4-Cine", Golden (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/Golden_t4/playlist.m3u8
+
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://pbs.twimg.com/profile_images/907114710088241152/kEDLAPN4_400x400.jpg" group-title="4-Cine", CINCO TV TIGRE
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
@@ -142,5 +149,6 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w12699291
 #5-Radios
 #EXTINF:-1 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="5-Radios", Radio Latina
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
+
 
 
