@@ -12,6 +12,10 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w1076024016_b881072.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="1-Tv Abierta", Canal 10
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/.m3u8
+
+
 #EXTINF:-1 tvg-id="229" tvg-logo="https://i2.paste.pics/3595f1cf2a6659946f9ff0c1d61ef6cc.png" group-title="1-Tv Abierta",Canal 20 Villa Maria
 https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8?PlaylistM3UCL
 
@@ -20,32 +24,71 @@ https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8?PlaylistM3UCL
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="1-Tv Abierta", Telefe
+http://tv.teleclub.xyz/envivo/Mundo/TELEFE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3VgvNM.png" group-title="1-Tv Abierta", CNN en Español
+http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8
+
+
 #2-Deporte
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" group-title="2-Deporte", TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="2-Deporte", 221 | ESPN
-http://bantel.iptvperu.tv:1935/transcoder2/ESPN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zKwneZ3.png" group-title="2-Deporte", TyC Sports
+http://tv.teleclub.xyz/envivo/Deportes/TYC_SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9iC8v1.jpg" group-title="2-Deporte", ESPN 1 Sur
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_SUR/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8lWxsCT.jpg" group-title="2-Deporte", ESPN 2 Sur
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_2_SUR/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sPhaUD9.jpg" group-title="2-Deporte", ESPN 3 Sur
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_3_SUR/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wZWckwd.jpg" group-title="2-Deporte", ESPN Premium
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_PREMIUM/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XZ5pR4M.png" group-title="2-Deporte", Fox Sports Premium
+http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="2-Deporte", TNT Sports
+http://tv.teleclub.xyz/envivo/Deportes/TNT_SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9iC8v1.png" group-title="2-Deporte", ESPN Extra
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_EXTRA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yTaEw8U.png" group-title="2-Deporte", ESPN 4
+http://tv.teleclub.xyz/envivo/Deportes/ESPN4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9iC8v1.png" group-title="2-Deporte", ESPN Deportes 
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9iC8v1.jpg" group-title="2-Deporte", ESPN 1 MX
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_MX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8lWxsCT.jpg" group-title="2-Deporte", ESPN 2 MX
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_2_MX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sPhaUD9.jpg" group-title="2-Deporte", ESPN 3 MX
 
 
-#EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="2-Deporte", 222 | ESPN 2
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN2_t2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="2-Deporte", Directv
+http://tv.teleclub.xyz/envivo/Deportes/DIRECTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="2-Deporte", Directv 2
+http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="2-Deporte", Directv +
+http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_PLUS/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | ESPN 3" tvg-name="USA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="2-Deporte", 223 | ESPN 3
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN3_t2.stream/playlist.m3u8
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_3_MX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMt4skq.jpg" group-title="2-Deporte", Fox Sports 1 MX
+http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_MX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ammdun.jpg" group-title="2-Deporte", Fox Sports 2 MX
+http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_2_MX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/udvy1ea.jpg" group-title="2-Deporte", Fox Sports 3 MX
+http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_3_MX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMt4skq.jpg" group-title="2-Deporte", Fox Sports 1 Sur
+http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_SUR/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ammdun.jpg" group-title="2-Deporte", Fox Sports 2 Sur
+http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_2_SUR/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/udvy1ea.jpg" group-title="2-Deporte", Fox Sports 3 Sur
+http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_3_SUR/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | ESPN 4" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="2-Deporte", 224 | ESPN 4
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN4_t2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USA | ESPN 5" tvg-name="USA | ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/180px-ESPN_5_logo.svg.png" group-title="2-Deporte", 225 | ESPN 5
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN5_t2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USA | ESPN 6" tvg-name="USA | ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/180px-ESPN_6_logo.svg.png" group-title="2-Deporte", 226 | ESPN 6
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN6_t2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USA | ESPN 7" tvg-name="USA | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/175px-ESPN_7_logo.svg.png" group-title="2-Deporte", 227 | ESPN 7
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN7_t2.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EfHstB2.png" group-title="Deportes", TUDN
+http://tv.teleclub.xyz/envivo/Deportes/TUDN/index.m3u8
 
 
 #3-Variedad
@@ -54,19 +97,10 @@ http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN7_t2.stream/playlist.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" group-title="3-Variedad", Nat Geo (EST)
-http://bantel.iptvperu.tv:1935/transcoderip/NatGeo_t2.stream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="USA | History" tvg-name="USA | History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="3-Variedad", 321 | History
-http://bantel.iptvperu.tv:1935/transcoder_t4/History_t4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USA | History 2" tvg-name="USA | History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="3-Variedad", 322 | History 2
-http://bantel.iptvperu.tv:1935/transcoderip/history2_t4/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="3-Variedad",Argentinísima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
+
 
 #EXTINF:-1 tvg-id="AR | Rural TV" tvg-name="AR | Rural TV" tvg-logo="https://www.elrural.com/wp-content/themes/el-rural2016/images/canal-rural.png" group-title="3-Variedad", 313 | Canal Rural
 https://cda2.alsolnet.com/elrural/live/chunklist_w1152779177.m3u8
@@ -84,66 +118,127 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="3-Variedad", Discovery Channel
+http://tv.teleclub.xyz/envivo/3-Variedad/DISCOVERY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dCIf15Q.jpg" group-title="3-Variedad", Discovery Theater
+http://tv.teleclub.xyz/envivo/3-Variedad/DISCOVERY_THEATER/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8yegix.jpg" group-title="3-Variedad", Discovery World
+http://tv.teleclub.xyz/envivo/3-Variedad/DISCOVERY_WORLD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HWv6NHE.jpg" group-title="3-Variedad", Discovery Turbo
+http://tv.teleclub.xyz/envivo/3-Variedad/DISCOVERY_TURBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MyPyuM2.jpg" group-title="3-Variedad", Discovery Sciences
+http://tv.teleclub.xyz/envivo/3-Variedad/DISCOVERY_SCIENCES/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aFNCuzq.png" group-title="3-Variedad", Discovery ID
+http://tv.teleclub.xyz/envivo/3-Variedad/DISCOVERY_ID/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="3-Variedad", Discovery H&amp;H
+http://tv.teleclub.xyz/envivo/3-Variedad/DISCOVERY_HH/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="3-Variedad", History Channel
+http://tv.teleclub.xyz/envivo/3-Variedad/HISTORY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="3-Variedad", H2
+http://tv.teleclub.xyz/envivo/3-Variedad/H2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="3-Variedad", National Geographic
+http://tv.teleclub.xyz/envivo/3-Variedad/NATGEO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="3-Variedad", A&amp;E
+http://tv.teleclub.xyz/envivo/3-Variedad/A_E/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="3-Variedad", Animal Planet
+http://tv.teleclub.xyz/envivo/3-Variedad/ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fYvrHY2.png" group-title="3-Variedad", El Gourmet
+http://tv.teleclub.xyz/envivo/3-Variedad/EL_GOURMET/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XW8CuxK.jpg" group-title="3-Variedad", TLC
+http://tv.teleclub.xyz/envivo/3-Variedad/TLC/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JRVqHBL.png" group-title="3-Variedad", ComedyCentral
+http://tv.teleclub.xyz/envivo/3-Variedad/COMEDYCENTRAL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo2QbJT.png" group-title="3-Variedad", Discovery Familia
+http://tv.teleclub.xyz/envivo/3-Variedad/DISCOVERY_FAMILIA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u14ElrR.png" group-title="3-Variedad", HGTV
+http://tv.teleclub.xyz/envivo/3-Variedad/HGTV/index.m3u8
+
+
 #Cine
 
-#EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="4-Cine", 96 | Star Channel
-http://bantel.iptvperu.tv:1935/transcoderip/StarChannel_t2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="4-Cine", 97 | FX
-http://bantel.iptvperu.tv:1935/transcoderip/FX_t2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4-Cine", Bayres
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
-#EXTINF:-1 tvg-id="USA | Cinecanal" tvg-name="USA | Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="4-Cine", 72 | Cinecanal
-http://bantel.iptvperu.tv:1935/transcoderip/CineCanal_t2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4-Cine",Ciudad Magica
+https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
-#EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="4-Cine", 74 | Sony Channel
-http://bantel.iptvperu.tv:1935/transcoder_t4/sonychannel_t4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USA | Sony Movies" tvg-name="USA | Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="4-Cine", 75 | Sony Movies
-http://bantel.iptvperu.tv:1935/transcoder_t4/SonyMovies_t4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USA | Paramount Network" tvg-name="USA | Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/150px-Paramount_Network.svg.png" group-title="4-Cine", 73 | Paramount Network
-http://bantel.iptvperu.tv:1935/transcoderip/paramount_t4/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="USA | Studio Universal" tvg-name="USA | Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="4-Cine", 87 | Studio Universal
-http://bantel.iptvperu.tv:1935/transcoderip/studiouniversal_t5.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USA | Universal TV" tvg-name="USA | Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png" group-title="4-Cine", 99 | Universal TV
-http://bantel.iptvperu.tv:1935/transcoderip/universalchannel_t5.stream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="USA | AXN" tvg-name="USA | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="4-Cine", 71 | AXN
-http://bantel.iptvperu.tv:1935/transcoder_t4/axn_t4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CL | Classic +" tvg-name="CL | Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="4-Cine", 86 | Classic +
-http://bantel.iptvperu.tv:1935/astra/Classic/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USA | DHE" tvg-name="USA | DHE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png" group-title="4-Cine", 122 | DHE
-http://bantel.iptvperu.tv:1935/transcoderip/DHE_t2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USA | Cine Premium" tvg-name="USA | Cine Premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="4-Cine", 123 | Cine Premium
-http://bantel.iptvperu.tv:1935/transcoderip/cinepremium_t1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USA | Cine Hispano" tvg-name="USA | Cine Hispano" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-hispano-us.png" group-title="4-Cine", 124 | Cine Hispano
-http://bantel.iptvperu.tv:1935/transcoderip/cinehispano_t1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USA | Cine Familiar" tvg-name="USA | Cine Familiar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-familiar.png" group-title="4-Cine", 125 | Cine Familiar
-http://bantel.iptvperu.tv:1935/transcoderip/cinefamiliar_t1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USA | FMH Movies" tvg-name="USA | FMH Movies" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies.jpg" group-title="4-Cine", 126 | FMH Movies
-http://bantel.iptvperu.tv:1935/astralocal/FMH_Movies/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="4-Cine", Golden (EST)
-http://bantel.iptvperu.tv:1935/transcoderip/Golden_t4/playlist.m3u8
+#EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="4-Cine",WOW TV (576p)
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://pbs.twimg.com/profile_images/907114710088241152/kEDLAPN4_400x400.jpg" group-title="4-Cine", CINCO TV TIGRE
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="4-Cine", Star Channel
+http://tv.teleclub.xyz/envivo/4-Cine/STAR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="4-Cine", Universal TV
+http://tv.teleclub.xyz/envivo/4-Cine/UNIVERSAL_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="4-Cine", Warner TV
+http://tv.teleclub.xyz/envivo/4-Cine/WARNER_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="4-Cine", AXN
+http://tv.teleclub.xyz/envivo/4-Cine/AXN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="4-Cine", Paramount
+http://tv.teleclub.xyz/envivo/4-Cine/PARAMOUNT/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="4-Cine", Studio Universal
+http://tv.teleclub.xyz/envivo/4-Cine/STUDIO_UNIVERSAL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="4-Cine", FX
+http://tv.teleclub.xyz/envivo/4-Cine/FX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EOS4pd9.jpg" group-title="4-Cine", TBS
+http://tv.teleclub.xyz/envivo/4-Cine/TBS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5GZsY7O.png" group-title="4-Cine", TNT
+http://tv.teleclub.xyz/envivo/4-Cine/TNT/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="4-Cine", TNT Series
+http://tv.teleclub.xyz/envivo/4-Cine/TNT_SERIES/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="4-Cine", Cinemax
+http://tv.teleclub.xyz/envivo/4-Cine/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="4-Cine", Sony
+http://tv.teleclub.xyz/envivo/4-Cine/SONY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0kp7HMZ.png" group-title="4-Cine", DePelicula
+http://tv.teleclub.xyz/envivo/4-Cine/DEPELICULA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PhGmc9h.jpg" group-title="4-Cine", Cinecanal
+http://tv.teleclub.xyz/envivo/4-Cine/CINECANAL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="4-Cine", HBO
+http://tv.teleclub.xyz/envivo/4-Cine/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="4-Cine", HBO 2
+http://tv.teleclub.xyz/envivo/4-Cine/HBO_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k9ctQko.jpg" group-title="4-Cine", HBO +
+http://tv.teleclub.xyz/envivo/4-Cine/HBO_PLUS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UWB6lC9.jpg" group-title="4-Cine", HBO Mundi
+http://tv.teleclub.xyz/envivo/4-Cine/HBO_MUNDI/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JeWg4u9.jpg" group-title="4-Cine", HBO Pop
+http://tv.teleclub.xyz/envivo/4-Cine/HBO_POP/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.jpg" group-title="4-Cine", HBO Signature
+http://tv.teleclub.xyz/envivo/4-Cine/HBO_SIGNATURE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6DVZ2A.jpg" group-title="4-Cine", HBO Xtreme
+http://tv.teleclub.xyz/envivo/4-Cine/HBO_XTREME/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KQSKMwy.jpg" group-title="4-Cine", HBO Family
+http://tv.teleclub.xyz/envivo/4-Cine/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="4-Cine", Golden
+http://tv.teleclub.xyz/envivo/4-Cine/GOLDEN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="4-Cine", Golden Edge
+http://tv.teleclub.xyz/envivo/4-Cine/GOLDEN_EDGE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="4-Cine", Golden Premier
+http://tv.teleclub.xyz/envivo/4-Cine/GOLDEN_PREMIER/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="4-Cine", Golden Plus
+http://tv.teleclub.xyz/envivo/4-Cine/GOLDEN_PLUS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="4-Cine", AMC
+http://tv.teleclub.xyz/envivo/4-Cine/AMC/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="4-Cine", SPACE
+http://tv.teleclub.xyz/envivo/4-Cine/SPACE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DByzHja.png" group-title="4-Cine", Universal Premiere
+http://tv.teleclub.xyz/envivo/4-Cine/UNIVERSAL_PREMIERE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e1Bjuah.png" group-title="4-Cine", Universal Reality
+http://tv.teleclub.xyz/envivo/4-Cine/UNIVERSAL_REALITY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LNg0khT.png" group-title="4-Cine", Universal Crime
+http://tv.teleclub.xyz/envivo/4-Cine/UNIVERSAL_CRIME/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G0qhNqu.png" group-title="4-Cine", Universal Comedy
+http://tv.teleclub.xyz/envivo/4-Cine/UNIVERSAL_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wmb5sIF.png" group-title="4-Cine", SYFY
+http://tv.teleclub.xyz/envivo/4-Cine/SYFY/index.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/wow-tv-en-vivo-canal-24-2312.png" group-title="4-Cine", WOW
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1269929189_b1000000_slen.m3u8
 
 
 #5-Radios
