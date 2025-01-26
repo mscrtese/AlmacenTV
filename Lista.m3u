@@ -9,9 +9,6 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="1-Tv Abierta", Telefe
-https://streamtp2.com/server1.php?stream=telefe
-
 #EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://i.imgur.com/87WCHtd.png" group-title="1-Tv Abierta",Canal 10 Córdoba (1080p)
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w1076024016_b881072.m3u8
 
