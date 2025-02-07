@@ -49,6 +49,11 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://launion.com.ar//img/publicaciones/2022/05/06//alta/143036.jpg" group-title="", Los Tres Chiflados
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+
+
 #5-Radios
 #EXTINF:-1 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="", Radio Latina
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
